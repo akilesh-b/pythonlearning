@@ -1,0 +1,4 @@
+f=open("vidu",a)
+a=f.read
+print(data)
+f.close
