@@ -1,0 +1,6 @@
+file = open("friends.txt", "r")
+content = file.read()
+words = content.split()
+count = len(words)
+print("Number of words in the file:", count)    
+file.close()

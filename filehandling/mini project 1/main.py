@@ -23,3 +23,6 @@ print(fo.read())
 
 # Close file
 fo.close()
+
+
+
